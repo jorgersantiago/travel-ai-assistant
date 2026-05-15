@@ -20,8 +20,8 @@ It helps users analyze travel-related requests, recommend a trip style, and gene
 ## Installation
 
 ```bash
-git clone https://github.com/TU-USUARIO/TU-REPO.git
-cd TU-REPO
+git clone https://github.com/jorgersantiago/travel-ai-assistant.git
+cd travel-ai-assistant
 pip install -r requirements.txt
 python app.py
 ```
@@ -42,4 +42,4 @@ python app.py
 
 ## Deployment
 
-Live app: [PON_AQUI_TU_LINK_DE_HUGGING_FACE]
+Live app: https://huggingface.co/spaces/jorgersantiago/travel-ai-assistant
